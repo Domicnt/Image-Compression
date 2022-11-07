@@ -1,0 +1,34 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CudaImage.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\domin\source\repos\CudaSDL\triangle.h(49,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\domin\source\repos\CudaSDL\triangle.h(50,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\domin\source\repos\CudaSDL\triangle.h(51,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\domin\source\repos\CudaSDL\triangle.h(52,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\domin\source\repos\CudaSDL\triangle.h(55,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\domin\source\repos\CudaSDL\triangle.h(56,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\domin\source\repos\CudaSDL\triangle.h(64,80): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\domin\source\repos\CudaSDL\triangle.h(64,41): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\domin\source\repos\CudaSDL\triangle.h(98,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\domin\source\repos\CudaSDL\triangle.h(99,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\domin\source\repos\CudaSDL\triangle.h(102,91): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\domin\source\repos\CudaSDL\triangle.h(102,41): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\domin\source\repos\CudaSDL\main.cpp(35,13): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\domin\source\repos\CudaSDL\main.cpp(46,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\domin\source\repos\CudaSDL\main.cpp(88,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\domin\source\repos\CudaSDL\main.cpp(115,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
