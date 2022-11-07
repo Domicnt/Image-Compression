@@ -6,6 +6,6 @@
 #### Before running, check that `TILE_WIDTH` and `TILE_HEIGHT` are set to even multiples of the width and height of the input image
 
 ## Example input
-![](test images/input1.bmp)
+![](test%20images/input1.bmp)
 ## Example output
-![](test images/output1.bmp)
+![](test%20images/output1.bmp)
